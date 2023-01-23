@@ -111,6 +111,7 @@
 /pt-BR/docs/DragDrop/Arrastar_e_Soltar	/pt-BR/docs/Web/API/HTML_Drag_and_Drop_API
 /pt-BR/docs/DragDrop/Drag_and_Drop	/pt-BR/docs/Web/API/HTML_Drag_and_Drop_API
 /pt-BR/docs/DragDrop/Drag_and_Drop/Arrastar_e_soltar_arquivos	/pt-BR/docs/Web/API/HTML_Drag_and_Drop_API/File_drag_and_drop
+/pt-BR/docs/Games/Examples	/pt-BR/docs/orphaned/Games/Examples
 /pt-BR/docs/Games/Introduction_to_HTML5_Game_Gevelopment_(summary)	/pt-BR/docs/Games/Introduction_to_HTML5_Game_Development
 /pt-BR/docs/Glossario	/pt-BR/docs/Glossary
 /pt-BR/docs/Glossario/404	/pt-BR/docs/conflicting/Web/HTTP/Status/404
